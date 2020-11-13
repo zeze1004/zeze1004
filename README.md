@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="flex-column flex-md-row" style="display:flex;">
-<div style="margin: 0 .5rem;">	
- 
-
+<center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,5 +23,4 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
 
- </div>
-  </div>
+</center>
