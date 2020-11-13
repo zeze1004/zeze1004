@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunhoflash&hide=Jupyter%20Notebook&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=Jupyter%20Notebook&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <div style="margin: 0 .5rem;">	
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gunhoflash)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)
