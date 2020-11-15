@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
+<div center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
 
-</center>
+</div center>
