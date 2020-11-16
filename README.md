@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 #### 오신 김에 star 눌러주고 가시라궁⭐
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)	 
 
