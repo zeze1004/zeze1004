@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)	 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
- url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL,jupyter%20notebook&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
- 
 </div>
