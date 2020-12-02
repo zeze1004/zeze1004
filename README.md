@@ -3,7 +3,10 @@
 ### Hi there 👋
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
 
-###### 11월 내로 git 정리하기😫
+###### 11월 내로 git 정리하기😫 미루기를 미뤄벌임...!
+
+![KakaoTalk_20201202_190448723](https://user-images.githubusercontent.com/44468282/100859434-90ad8700-34d2-11eb-818c-fa46eebcacdb.gif)
+
 
 <!--
 **zeze1004/zeze1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
