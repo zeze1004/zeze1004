@@ -1,6 +1,7 @@
 <div align="center">
  
-### Hi there 👋
+### Hi there 👋 
+### HAPPY NEW YEAR🥰
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
 
 ###### 올해 안에 git 정리하기로 했는데...!😫 
