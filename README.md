@@ -6,7 +6,7 @@
 
 ###### 올해 안에 git 정리하기로 했는데...!😫 
 
-![KakaoTalk_20201202_190448723](https://user-images.githubusercontent.com/44468282/100859434-90ad8700-34d2-11eb-818c-fa46eebcacdb.gif)
+![1608778755254](https://user-images.githubusercontent.com/44468282/103389315-7d352080-4b51-11eb-933b-4e6e87667011.jpg)
 
 
 <!--
