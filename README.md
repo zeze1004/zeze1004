@@ -8,7 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/44468282/103389315-7d352080-4b51-11eb-933b-4e6e87667011.jpg" width="40%">
 
-![1608778755254](https://user-images.githubusercontent.com/44468282/103389315-7d352080-4b51-11eb-933b-4e6e87667011.jpg)
 
 
 <!--
