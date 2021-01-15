@@ -4,7 +4,6 @@
 ### HAPPY NEW YEAR🥰
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
 
-###### 올해 안에 git 정리하기로 했는데...!😫 
 
 <img src="https://user-images.githubusercontent.com/44468282/103389315-7d352080-4b51-11eb-933b-4e6e87667011.jpg" width="40%">
 
