@@ -4,7 +4,7 @@
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
 
 
-<img src="https://user-images.githubusercontent.com/44468282/103389315-7d352080-4b51-11eb-933b-4e6e87667011.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/44468282/112166741-409a3200-8c33-11eb-9df6-d5d32ceb5156.jpg" width="40%">
 
 
 
