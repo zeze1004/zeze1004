@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌸ZEZE🌸%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌸ZEZE🌸&fontSize=90)
  
 ### Hi there 👋 
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
