@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 <div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌸ZEZE🌸%20render&fontSize=90)
  
 ### Hi there 👋 
 #### ⭐오신 김에 star 눌러주고 가시라궁⭐
@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)	
 
+![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
