@@ -3,10 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌸ZEZE🌸&fontSize=90)
  
 ### Hi there 👋 
-#### ⭐오신 김에 star 눌러주고 가시라궁⭐
+#### ⭐오신 김에 star 눌러주고 가주세요⭐
 
-
-<img src="https://user-images.githubusercontent.com/44468282/112166741-409a3200-8c33-11eb-9df6-d5d32ceb5156.jpg" width="40%">
 
 
 
