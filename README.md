@@ -1,11 +1,13 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🌸ZEZE🌸&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=🌸ZEZE🌸&fontSize=90)
  
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
+ 	
 
 ### Hi there 👋 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 #### ⭐오신 김에 star 눌러주고 가주세요⭐
 
 
