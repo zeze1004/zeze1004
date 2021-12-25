@@ -13,7 +13,7 @@
 [![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=thwjd2717)](https://solved.ac/thwjd2717)
 
 
-#### ⭐오신 김에 star 눌러주고 가주세요⭐
+#### 오신 김에 star 눌러주고 가주세요
 
 
  
