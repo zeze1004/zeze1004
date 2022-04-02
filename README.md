@@ -7,7 +7,6 @@
  
 ### [제제의 트러블슛로깅 블로그](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
 ### [제제의 링크드인](https://www.linkedin.com/in/%EC%86%8C%EC%A0%95-%EA%B9%80-695195146/)
-### [제제의 이력서](https://www.notion.so/589e5c0e18634582956323de1a83c41b)
 
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeze1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
