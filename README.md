@@ -7,7 +7,7 @@
 ### Hi there 👋 
  
 ### [제제의 트러블슛로깅 블로그](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
-### [노션으로 마이그레이션 중](https://cold-allspice-322.notion.site/855bc793685f4e0fa90f1f4e311f6190)
+### [노션으로 마이그레이션 중](https://king-zeze.notion.site/855bc793685f4e0fa90f1f4e311f6190)
 ### [제제의 링크드인](https://www.linkedin.com/in/so-jung-kim-695195146/)
 
  
