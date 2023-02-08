@@ -4,7 +4,7 @@
  
  
  	
-### Hi there 👋 
+### 안녕하세요👋 오디 아니고 오딘입니다 ^ㅁ^
  
 ### [개발 일상 블로그](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
 ### [개발 일지 노션](https://king-zeze.notion.site/855bc793685f4e0fa90f1f4e311f6190)
