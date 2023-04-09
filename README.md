@@ -1,13 +1,13 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ZEZE'sTruble🔫&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SOJUNG'sTruble🔫&fontSize=70)
  
  
  	
-### 안녕하세요👋 오디 아니고 오딘입니다 ^ㅁ^
+### 안녕하세요👋 Jr.DevOps Engineer 김소정입니다.
  
 ### [개발 일상 블로그](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
-### [개발 일지 노션](https://king-zeze.notion.site/855bc793685f4e0fa90f1f4e311f6190)
+### [개발 일지 노션](https://kimsojung.notion.site/855bc793685f4e0fa90f1f4e311f6190)
 ### [링크드인](https://www.linkedin.com/in/so-jung-kim-695195146/)
 
  
