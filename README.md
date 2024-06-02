@@ -4,7 +4,7 @@
  
  
  	
-### 안녕하세요👋 Jr.Sofeware Engineer 김소정입니다.
+### 안녕하세요👋 Jr.Software Engineer 김소정입니다.
  
 ### [개발 일상 블로그](https://blog.naver.com/PostList.naver?blogId=thwjd2717&from=postList&categoryNo=55)
 ### [개발 일지 노션](https://kimsojung.notion.site/855bc793685f4e0fa90f1f4e311f6190)
