@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zeze1004)](https://github.com/anuraghazra/github-readme-stats)	   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=8&layout=compact&exclude_repo=python-openstackclient)](https://github.com/anuraghazra/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeze1004&hide=OpenEdge%20ABL&langs_count=8&layout=compact&exclude_repo=python-openstackclient&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)	
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
