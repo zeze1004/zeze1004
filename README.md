@@ -3,6 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SOJUNG'sTruble🔫&fontSize=70)
  
  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/zeze1004?pet-id=625134001276568842"
+    width="600"
+    height="120"
+  />
+</a>
+  
  	
 ### 안녕하세요👋 Jr.Software Engineer 김소정입니다.
  
